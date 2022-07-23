@@ -1,0 +1,1 @@
+Data downloaded from [NASA](https://data.giss.nasa.gov/gistemp/) through the link: https://data.giss.nasa.gov/gistemp/tabledata_v4/GLB.Ts+dSST.csv
